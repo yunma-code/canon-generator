@@ -1,8 +1,4 @@
-# canon-generator
-Using Processing for visual presentation and MaxMSP for audio, this self-generating canon plays when the Processing canvas's play button is clicked. Move the mouse to transpose the melodic line in real time.
-
-
-# Canon Generator
+# Random Canon Generator
 
 ## Overview
 **Canon Generator** is an interactive audiovisual system that combines **Processing** for visual presentation and **Max/MSP** for audio synthesis. The system generates a self-playing canon when the play button on the Processing canvas is clicked. Users can transpose the melodic line in real time by moving the mouse.
